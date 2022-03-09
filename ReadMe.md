@@ -21,7 +21,7 @@ Below are the selected screenshots that demonstrate the features of the app.
 
 ## Criminal list
 
-![Criminal list](docs/images/1-CriminalList.png)
+![Criminal list](docs/images/1-CriminalList.png | width=100)
 
 ## Criminal detail - create new
 
