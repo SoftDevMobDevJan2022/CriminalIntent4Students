@@ -25,23 +25,23 @@ Below are the selected screenshots that demonstrate the features of the app.
 
 ## Criminal detail - create new
 
-![Criminal detail - create new](docs/images/2-CriminalDetail-CreateNew.png)
+<img src="docs/images/2-CriminalDetail-CreateNew.png" width=270/>
 
 ## Criminal detail - view & update
 
-![Criminal detail - view & update](docs/images/3-CriminalDetail-View-Update.png)
+<img src="docs/images/3-CriminalDetail-View-Update.png" width=270/>
 
 ## Date picker dialog
 
-![Date picker dialog](docs/images/4-DatePickerDialog.png)
+<img src="docs/images/4-DatePickerDialog.png" width=270/>
 
 ## Sending a report
 
-![Sending a report](docs/images/5-ImplicitIntent-SendReport.png)
+<img src="docs/images/5-ImplicitIntent-SendReport.png" width=270/>
 
 ## Taking a picture using camera
 
-![Taking a picture using camera](docs/images/6-ImplicitIntent-CameraPicture.png)
+<img src="docs/images/6-ImplicitIntent-CameraPicture.png" width=270/>
 
 # Version 1.0 
 **Git branch**: `version1`
