@@ -17,6 +17,8 @@ interface: The main screen will display a list of recorded crimes, and users wil
 crimes or select an existing crime to view and edit its details (Figure 8.1)
 
 # Version 1.0 
+**Git branch**: `version1`
+
 ## Scope
 - Chapters 8, 9
 ## Chapter 8
@@ -36,6 +38,8 @@ Jetpack packages: https://developer.android.com/jetpack/androidx/versions
 - res/layout/list_item_crime.xml
 
 # Version 2.0
+**Git branch**: `version2`
+
 ## Scope
 - Chapters 10, 11
 
@@ -55,6 +59,8 @@ Jetpack packages: https://developer.android.com/jetpack/androidx/versions
 - CrimeListViewModel, CrimeListFragment: updated to use LiveData
 
 # Version 3.0
+**Git branch**: `version3`
+
 ## Scope
 - Chapters 12, 13
 
@@ -69,6 +75,8 @@ Jetpack packages: https://developer.android.com/jetpack/androidx/versions
 - CrimeFragment: updated to interact with DatePickerFragment to allow user pick a date
   
 # Version 4.0
+**Git branch**: `version4`
+
 ## Scope
 - Chapters: 14,15,16
 
