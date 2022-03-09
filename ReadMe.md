@@ -70,7 +70,7 @@ Jetpack packages: https://developer.android.com/jetpack/androidx/versions
   
 # Version 4.0
 ## Scope
-- Chapters 14,15,16
+- Chapters: 14,15,16
 
 ## Chapter 14: App Bar
 - CriminalListFragment: added options menu in App Bar, that allows user to add a new item
