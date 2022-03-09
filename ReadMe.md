@@ -16,6 +16,33 @@ CriminalIntent is a complex app that will take 11 chapters to complete. It will 
 interface: The main screen will display a list of recorded crimes, and users will be able to add new
 crimes or select an existing crime to view and edit its details (Figure 8.1)
 
+# Screen shots demo
+Below are the selected screenshots that demonstrate the features of the app.
+
+## Criminal list
+
+![Criminal list](docs/images/1-CriminalList.png)
+
+## Criminal detail - create new
+
+![Criminal detail - create new](docs/images/2-CriminalDetail-CreateNew.png)
+
+## Criminal detail - view & update
+
+![Criminal detail - view & update](docs/images/3-CriminalDetail-View-Update.png)
+
+## Date picker dialog
+
+![Date picker dialog](docs/images/4-DatePickerDialog.png)
+
+## Sending a report
+
+![Sending a report](docs/images/5-ImplicitIntent-SendReport.png)
+
+## Taking a picture using camera
+
+![Taking a picture using camera](docs/images/6-ImplicitIntent-CameraPicture.png)
+
 # Version 1.0 
 **Git branch**: `version1`
 
