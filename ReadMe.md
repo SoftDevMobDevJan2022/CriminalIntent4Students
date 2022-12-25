@@ -2,7 +2,8 @@ App: Criminal Intent
 ======================
 
 # Overview
-***Reference***: BNR book, Chapter 8
+***Reference***: BNR book: Chapter 9 (5th Edition) or Chapter 8 (4th Edition).
+
 
 ***CriminalIntent*** records the details of "office crimes" – things like leaving dirty dishes in the break room sink or walking away
 from an empty shared printer after documents have printed.
